@@ -1,0 +1,12 @@
+{
+    "name": "sadham",
+    "age": 32,
+  "languages": ["Urdu","English","Tamil"],
+    "address": {
+        "line1": "4,Pillaiyar kovil street",
+        "line2": "Perungalathur",
+        "city": "Chennai",
+        "state": "TamilNadu"
+
+}
+}
